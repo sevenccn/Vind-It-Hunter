@@ -17,7 +17,6 @@ nav ul li {
 p {
     display: flex;
     justify-content: center;
-    font: bold;
     margin: 1.5em;
     font-size: 4em;
 }
@@ -80,7 +79,7 @@ body {
 
 
 main {
-    height: 120vh;
+    height: 130vh;
     background-color: rgb(255, 255, 198);
     width: 100vw;
 }
